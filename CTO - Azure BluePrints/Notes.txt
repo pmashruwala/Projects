@@ -1,0 +1,22 @@
+Jump Box to UCE
+Start on SAGE Tenant
+
+pinankm@novasage.onmicrosoft.com
+
+Jump Box to UCE 
+
+SAGE Tenant 
+WISP
+
+Tuesday at 1pm 381
+
+
+https://docs.microsoft.com/en-us/azure/virtual-network/routing-preference-overview#:~:text=Azure%20routing%20preference%20enables%20you,and%20hot%20potato%20routing%20respectively.
+
+https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/
+
+https://aguidetocloud.com/2020/05/18/measure-wvd-latency/
+
+testing
+
+
